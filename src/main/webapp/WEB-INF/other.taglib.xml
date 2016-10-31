@@ -1,0 +1,8 @@
+<facelet-taglib version="2.2" xmlns="http://xmlns.jcp.org/xml/ns/javaee"
+    xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee http://xmlns.jcp.org/xml/ns/javaee/web-facelettaglibrary_2_2.xsd"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+
+    <namespace>http://example.com/jsf</namespace>
+    <composite-library-name>other</composite-library-name>
+
+</facelet-taglib>
